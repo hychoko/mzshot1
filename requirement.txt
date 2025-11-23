@@ -1,7 +1,5 @@
-streamlit
-pandas
-streamlit-webrtc
-mediapipe
 opencv-python-headless
-av
+mediapipe
+streamlit
 numpy
+Pillow
